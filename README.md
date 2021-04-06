@@ -144,7 +144,7 @@ Moreover, each time your internet connection changes, you will have to change th
 [Eric Wang](https://www.linkedin.com/in/erwang01)<br>
 Jasmine Bae<br>
 Varun Saran<br>
-[Nitzan Orr](https://www.linkedin.com/in/nitzanorr/)<br>
+[Nitzan Orr](https://orrblue.github.io/hello/)<br>
 [Shreyas Krishnaswamy](https://www.linkedin.com/in/shreyas-krishnaswamy)<br>
 
 
